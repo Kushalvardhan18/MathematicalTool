@@ -1,9 +1,33 @@
-.Heading{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: flex;
- justify-content: center;   
+.Heading {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
 }
-.tools{
-    display: flex;
-    justify-content: space-around;
+.tools {
+  display: flex;
+  justify-content: space-around;
+}
+#table {
+  padding: 5px;
+  border: 1px solid black;
+}
+#sqrt {
+  padding: 5px;
+  border: 1px solid black;
+}
+#cbrt {
+  padding: 5px;
+  border: 1px solid black;
+}
+#sumOfN {
+  padding: 5px;
+  border: 1px solid black;
+}
+#powerFn {
+  padding: 5px;
+  border: 1px solid black;
+}
+#ProductOfN {
+  padding: 5px;
+  border: 1px solid black;
 }
