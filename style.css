@@ -8,11 +8,11 @@
   justify-content: space-around;
 }
 #table {
-  padding: 5px;
+  padding: 50px;
   border: 1px solid black;
 }
 #sqrt {
-  padding: 5px;
+  padding: 15px;
   border: 1px solid black;
 }
 #cbrt {
